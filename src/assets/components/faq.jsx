@@ -104,7 +104,7 @@ In order to participate, a player must create an account on B7 Satta or the app,
 				
                 <b>Ank (Single):</b> Place a wager on just one number from 0 to 9.      <br/>
 <b>Jodi (Pair):</b> A bet with two numbers high or low (00-99) is referred to as a pair, and it is even most frequently employed for a good reward.   <br/>
-<b>Panna (Treble):</b> Place a wager on multiples of three digits.
+<b>Panna (Treble):</b> Place a wager on multiples of three digits.<br/>
 
 				Pay tables and side bets are available, but I've only included the most well-liked ones. Depending on the market and wager, payouts could reach 90 to 960 times the wager.
 				

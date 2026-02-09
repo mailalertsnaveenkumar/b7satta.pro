@@ -492,7 +492,7 @@ const UpcomingResults = ({ loadingInitial }) => {
 
        
 
-                  <p><b>Delhi Bazar Satta: One of the most well-known and established markets with daily results.</p>
+                  <p><b>Delhi Bazar Satta:</b> One of the most well-known and established markets with daily results.</p>
 
 					<p><b>Disawar Satta:</b> It has a large player base and is well-known for its daily draws.</p>
 
@@ -572,6 +572,7 @@ const UpcomingResults = ({ loadingInitial }) => {
 };
 
 export default Home;
+
 
 
 

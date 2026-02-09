@@ -1964,6 +1964,7 @@ section.faq-section span.sr {
     align-items: center;
     text-align: center;
     width: 32px;
+	min-width: 32px;
     height: 32px;
     font-size: 14px;
     border: 1px solid #000;
@@ -2693,6 +2694,7 @@ div.Select_selectMainDiv__QD2cf {
 section.octoberresultchart h5 {
     margin: 0;
 }
+
 
 
 

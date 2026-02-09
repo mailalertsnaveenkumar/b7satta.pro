@@ -414,7 +414,7 @@ const UpcomingResults = ({ loadingInitial }) => {
 
             <BottomAds />
 
-		{/* <section className="game-detail">
+		<section className="game-detail">
         <div className="containers">
           <div className="rowr">
             <div className="col-left">
@@ -653,7 +653,7 @@ const UpcomingResults = ({ loadingInitial }) => {
             </div>
           </div>
         </div>
-      </section>       */}
+      </section>       
 
 		{/*<FAQ />*/}
     </div>
@@ -661,6 +661,7 @@ const UpcomingResults = ({ loadingInitial }) => {
 };
 
 export default Home;
+
 
 
 

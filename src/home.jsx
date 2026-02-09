@@ -420,84 +420,54 @@ const UpcomingResults = ({ loadingInitial }) => {
             <div className="col-left">
               <div className="text-left2">
                 <h1>
-                  The Ultimate Guide to Satta King: Gambling Culture Nurtured In
-                  India and Its Impact on Society
+                  Presenting the most well-known gaming culture in India, Satta King, and its societal effects
                 </h1>
               </div>
             </div>
             <div className="col-right">
               <div className="content">
                 <p>
-                  Welcome to B7 Satta, the most informative sike about SATTA
-                  KING. In this guide, you will find a complete overview of the
-                  Satta King game, its history, gameplay style, leading markets
-                  and what players need to know in order to play it safely and
-                  responsibly.
+                  B7 Satta, the most informative website about SATTA KING, is now available! With the help of this guide, you will fully comprehend the Satta King game, including its origins, how to play it, which markets are the finest, and how crucial it is for players to be cautious.
                 </p>
-                <h2>What is Satta King?</h2>
+                <h2>What is it, Satta King?</h2>
                 <p>
-                  Satta King is an online game, where you can also stand a
-                  chance to win with the help of betting. It is a kind of
-                  lottery or gambling on the last two to four digits of selected
-                  numbers at predetermined intervals. The word <b>“Satta”</b>{" "}
-                  usually means betting or gambling and <b>“King”</b> is the
-                  term which refers to the person who gets triumph in a match.
+                  You can use online betting to win the Satta King game. It resembles a lottery, a game of numbers, or placing bets on the final two to four numbers at various time intervals. "King" implies head (winner), while "Satta" is typically associated with gambling or betting.
+
                 </p>
 
   
 
                 <Readmore>
                   <p>
-                    Satta King has its roots in the older systems of lotteries,
-                    but it is now the most popular game with a number of
-                    variants and regional platforms. It delivers the excitement
-                    of gambling and chance to win big prizes, but all on a
-                    screen and from modest starting bets.
+                    Despite having its origins in the previous lottery systems, Satta King is currently the most popular game because of its various forms and regional pockets. It offers the thrill of gambling and the possibility of enormous wins, but if you don't want to place big bets, you can't lose much, if anything—all on a screen.
+
                   </p>
 
                   <h2>The Historical Background of Satta King</h2>
 
                   <p>
-                    SattaKing game started in the middle of 20th century. It
-                    derived from a game called <b>“Matka,”</b> originating back
-                    in the times when people would place money on the
-                    opening/closing rate of cotton, which was then transmitted
-                    to the Bombay Cotton exchange from New York. The game was
-                    brought to India where it developed into various regional
-                    forms. Matka gained widespread popularity in cities such as
-                    approximately Mumbai and Delhi.{" "}
+                    The Satta King game was created in the middle of the 20th century. It started with a game called "Matka," in which players would place bets depending on the opening and closing prices of cotton that was sent from New York to the Bombay Cotton Exchange. Overview of the Indian Subcontinent Numerous regional variations of the game brought it to India. Matka became as well-known as Delhi and Mumbai.
+
                   </p>
 
                   <p>
-                    Matka gambling was the game at first, but when it was
-                    banned, people continued playing this kind of gambling which
-                    has evolved to ‘Satta’ King today. The game eventually
-                    spread to other cities and became associated with different
-                    markets (or “bazaars”), each with its own timing and winning
-                    numbers.
+                    The game was previously played offline since the late 1960s, but with the advent of the internet in 2000, everything went online, and it is now possible to play it digitally under the Cyber Law known as "Satta" King Possible. Eventually, the game spread to neighboring towns and was connected to numerous markets, or "bazaars," each of which had its own set of winning times and numbers.
                   </p>
 
                   <p>
-                    Satta King receives widespread participation despite legal
-                    limitations, with players anxiously anticipating the results
-                    of daily draws that reveal winners. The game has since
-                    migrated in many places to the internet, which explains why
-                    you get results or other way of playing quicker than before.
+                    Despite the ban, Satta King is very well-liked, and gamers consistently wait for the winners to be announced every day. Since then, it has expanded to the internet in many places, which is probably why you've been able to play faster or have better outcomes.
+
                   </p>
 
-                  <h2>How to Play Satta King?</h2>
+                  <h2>How Do I Play Satta King?</h2>
                   <p>
-                    Satta King is so simple to play, however you should be quite
-                    careful also. Here’s a simplified explanation:
+                    Although Satta King is quite simple to play, you must exercise caution. Here's a little explanation:
                   </p>
 
                   <h3>Choosing Numbers</h3>
-                  <p>
-                    Participants choose a number from 0 to 99. These numbers can
-                    also be selected, subsequently, individually but are usually
-                    taken in pairs (Jodi), triples ("Panna") or as back and
-                    close pair. There are various kinds of bet with different
-                    payout rates and odds.
+                  <p>                   
+					Every player selects one number between 00 and 99. PANNA Jodi duo Anak pannas are numbers that are taken in pairs inside a system, such as tira/panna (A,B) 121, etc. They can be played separately, for instance. However, a few wagers have rather uniform odds or payouts.
+   
                   </p>
 
                   <h3>Placing Bets</h3>
@@ -661,6 +631,7 @@ const UpcomingResults = ({ loadingInitial }) => {
 };
 
 export default Home;
+
 
 
 

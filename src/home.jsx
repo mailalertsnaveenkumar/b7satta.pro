@@ -565,13 +565,14 @@ const UpcomingResults = ({ loadingInitial }) => {
           </div>
         </div>
       </section>       
-<br></br>
+<br/>
 		{/*<FAQ />*/}
     </div>
   );
 };
 
 export default Home;
+
 
 
 
